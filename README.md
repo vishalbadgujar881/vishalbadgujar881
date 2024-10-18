@@ -5,6 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalbadgujar881&label=Profile%20views&color=0e75b6&style=flat" alt="vishalbadgujar881" /> </p>
 
+🚀Passionate Data Alchemist | Python & SQL Sorcerer | Crafting Insights from Chaos | Transforming Data into Action. 🤖 Let's turn data into gold together! ✨
+
+
 - 🔭 I’m currently working on **Machine Learning Projects**
 
 - 🌱 I’m currently learning **Python, ML, SQL, Tableau, Power BI**
